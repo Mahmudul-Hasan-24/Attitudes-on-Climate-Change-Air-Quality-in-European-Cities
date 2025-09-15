@@ -51,8 +51,6 @@ The analysis aims to uncover **regional patterns**, identify **clusters of citie
 
 ---
 
-## 🖼 Example Visualization
-![Clustering Results](docs/cities_cluster_plot.png)
 
 ---
 
@@ -105,5 +103,5 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 **Mahmudul Hasan**  
-Master’s in Business Analytics – TU Graz  
+Master’s Computational Social System (Business Analytics) – Technical University of Graz and University of Graz
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Mahmudul-Hasan-24)
